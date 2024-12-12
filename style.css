@@ -1,0 +1,17 @@
+*{
+    background-color: bisque;
+}
+#cantainer{
+    display: block;
+    text-align: center;
+    border: 2px solid black;
+    margin-top: 10%;
+    margin-left: 20%;
+    margin-right: 20%;
+    
+}
+#Submit{
+    background-color: brown;
+    border-style: none;
+    color: aliceblue;
+}
