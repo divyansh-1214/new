@@ -1,0 +1,17 @@
+body{
+    margin: 0;
+    background-image: url("nothing\ hapened\ zoro.jpg");
+    background-position: center; 
+}
+#clock-cantainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* border: 5px solid black; */
+    height: 100vh;
+}
+#clock{
+    font-family: monospace;
+    font-size: 5rem;
+    color: rgb(46, 236, 115);
+}
